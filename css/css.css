@@ -1,0 +1,35 @@
+
+
+.header{background-color: black; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 30px;}
+.header__container__navbar{flex-direction: column;text-align: center;}
+.tituloH{display: flex; justify-content: center;padding-top: 20px;padding-bottom: 10px;color: white;font-family: 'Segoe UI'; font-size: 40px;}
+.card{width: 200px;display: inline-block;text-align: center;margin-top: 20px; margin-right: 20px;
+    margin-bottom: 30px;}
+.cards{justify-content: center; text-align: center;}
+
+.detalleCompra{min-height: 200px; width: 810px; border: 10px double black;display: flex;}
+
+.detalleC{width: 510px;display: flex ;}
+.detalle_row{justify-content: center;}
+.btn{width: 20px; background-color: rgb(39, 221, 82); color: wheat;}
+
+.productosDetalle{width: 100px;height: 100px;}
+
+.header__container__logotipo--texto{color: white;text-align: center;}
+.main__fondoRH{background-color: rgb(105, 26, 26);}
+
+#container__buscador{text-align: center;}
+.btnSearch{width: 810px;border-radius: 20px; border: 10px solid rgb(0, 0, 0);text-align: center;}
+.buscador{justify-content: center;}
+.searchCenter{text-align: center;}
+
+.containerCenterFooter{justify-content: center;}
+
+.footerCol3{
+
+    text-align: center;
+}
+
+.footer{background-color: black;}
+
+#container__productos{background-color: black;margin-bottom: 20px; margin-top: 20px; border: 7px double white;}

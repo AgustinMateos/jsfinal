@@ -1,0 +1,14 @@
+[
+    {"id":1,"nombre":"CAMPERA1","imagen":"camperaH.jpeg","talle": 39,"made":"Made in USA","precio": 1300},
+    {"id":2,"nombre":"CAMPERA2","imagen":"camperaH.jpeg", "talle": 40,"made":"Made in CHINA","precio": 1300} ,
+    {"id":3,"nombre":"CAMPERA3","imagen":"camperaH.jpeg","talle": 41,"made":"Made in USA","precio": 1300},
+    {"id":4,"nombre":"CONJUNTO1","imagen":"conjuntoH.jpeg","talle": 42,"made":"Made in ARG","precio": 7000},
+    {"id":5,"nombre":"CONJUNTO2","imagen":"conjuntoH.jpeg","talle": 43,"made":"Made in MEXICO","precio": 7000},
+    {"id":6,"nombre":"CONJUNTO3","imagen":"conjuntoH.jpeg","talle": 43,"made":"Made in MEXICO","precio": 7000},
+    {"id":7,"nombre":"PANTALON1","imagen":"pantalonh.jpg","talle": 43,"made":"Made in MEXICO","precio": 7000},
+    {"id":8,"nombre":"PANTALON2","imagen":"pantalonh.jpg","talle": 43,"made":"Made in MEXICO","precio": 5000},
+    {"id":9,"nombre":"PANTALON3","imagen":"pantalonh.jpg","talle": 43,"made":"Made in MEXICO","precio": 5000}
+    ]
+
+
+
